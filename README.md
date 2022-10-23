@@ -1,6 +1,8 @@
 # Hole-in-one
 Golf simulatior game project for CS269
 
+-> To run the game, see colby_miniGolfGo/idea and run "game.py".
+
 ![](pictures/game_example_01.png)
 
 Hole-in-one is a two-player golf simulator game. In this game, you can:
@@ -30,4 +32,4 @@ Hole-in-one is a two-player golf simulator game. In this game, you can:
 
 **Lead QA:** Xinlai "Peter" Li
 
-**Programming:** Blitzen Wang, Yiheng Su, Chloe Zhang
+**Programming:** Blitzen Wang, Yiheng Su, Scottie Yang, Chloe Zhang
